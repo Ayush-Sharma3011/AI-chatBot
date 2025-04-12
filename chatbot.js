@@ -60,51 +60,6 @@ function askLegalBot(input, language, termsList) {
     });
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const termsData = {
     "contract": { en: "A legally binding agreement.", hi: "एक कानूनी बाध्यकारी समझौता।" },
     "bail": { en: "Temporary release from custody.", hi: "अस्थायी रूप से हिरासत से रिहाई।" },
